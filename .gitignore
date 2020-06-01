@@ -1,0 +1,13 @@
+.idea/
+*.pyc
+*.pyo
+result/
+bump_scaling_function/filters/
+.DS_Store
+*.DS_Store
+venv/
+venv27/
+
+/bump_steerable_wavelet/filters/
+
+!.keep
