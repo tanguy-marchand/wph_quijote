@@ -10,7 +10,7 @@ kwargs_pipeline = {
     "delta_n": 2,
     "nb_chunks": 40,
     "nb_batches_of_syntheses": 1,
-    "nb_iter": 3,
+    "nb_iter": 100,
     "factr": 1e7,
     "number_synthesis": 2,
     'result_path': os.path.join('result', 'first_test', '1'),
